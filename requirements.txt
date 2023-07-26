@@ -1,5 +1,5 @@
-plotly==5.9.0
-openpyxl==3.0.10
 pandas==1.4.4
 numpy==1.21.5
 pip==23.2.1
+plotly==5.9.0
+openpyxl==3.0.10
